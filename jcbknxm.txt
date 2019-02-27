@@ -1,0 +1,14 @@
+cognitive class
+
+
+name=["aj","avi"]
+name.clear()
+print(name)
+
+
+name=["aj","avi","srb"]
+name.pop(1)
+print(name)
+
+
+
